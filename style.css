@@ -1,0 +1,23 @@
+.animals1{
+	background-color:pink; 
+	display:flex;	
+	justify-content:space-between;
+}
+.animals2{
+	background-color:violet;
+	display:flex;	
+	justify-content:space-between;
+}
+.animals3{
+	background-color:purple;
+	display:flex;	
+	justify-content:space-between;
+}
+h1{
+	background-color:blue;
+	color:yellow;
+}
+h2{
+	background-color:yellow;
+	color:blue;
+}
